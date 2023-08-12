@@ -2,7 +2,7 @@
  
   This repository will contain all the assignments and projects that I did and will do at the machine learning summer camp.
 
-  The camp includes the following training and projects.
+  The camp includes the following training.
 
 #  Python Programming
 #  Feature Engineering
